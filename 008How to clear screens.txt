@@ -1,0 +1,11 @@
+#clear the screen 
+
+
+
+#This is not a .py code , this is importing direct on screen 
+
+
+
+import os 
+clear = lambda: os.system('cls')   #whatever you put varaible "clear" you can make that command as clearing screens !! Have Fun 
+clear 
